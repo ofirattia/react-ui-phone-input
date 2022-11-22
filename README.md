@@ -522,5 +522,6 @@ const placeholder = useMemo(() => {
 ## License
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ofirattia/react-ui-phone-input/blob/master/LICENSE)
 
-Based on [react-phone-input](https://github.com/razagill/react-phone-input)
+Based on [react-phone-input](https://github.com/razagill/react-phone-input) & Based on [react-phone-input-2](https://github.com/bl00mber/react-phone-input-2)
+
 
