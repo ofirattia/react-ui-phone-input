@@ -108,6 +108,7 @@ declare module "react-ui-phone-input" {
 	disableCountryGuess?: boolean;
 	showOnlyDialCodes?: boolean;
 	removeDialInput?: boolean;
+	inputLabel?: string;
   }
   const PhoneInput: React.FC<PhoneInputProps>;
   export default PhoneInput;
